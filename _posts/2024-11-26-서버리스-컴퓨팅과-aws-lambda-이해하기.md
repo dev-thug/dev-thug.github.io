@@ -4,9 +4,7 @@ description: "서버리스 아키텍처 개념: 서버리스의 기본 원리와
 author: dev-thug
 date: 2024-11-26 12:27
 categories:
-  - AWS
-  - SAM
-  - Cloud
+  - AWS SAM
 tags:
   - Serverless
   - Lambda

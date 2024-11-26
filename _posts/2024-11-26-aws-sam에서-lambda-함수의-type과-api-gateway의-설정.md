@@ -23,8 +23,6 @@ Resources:
       CodeUri: hello_world/
       Handler: app.lambda_handler
       Runtime: python3.9
-      Architectures:
-		- x86_64
       Events:
         HelloWorld:
           Type: Api
